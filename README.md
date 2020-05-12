@@ -1,1 +1,1 @@
-# Game-of-Android
+# Solution of Codechef Problems
