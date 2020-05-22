@@ -9,7 +9,6 @@ struct node{
 
 node *front = new node;
 node *rear = new node;
-
 int menu(){
 	cout<<"Enter one Option\n";
 	cout<<"1. Insert\n2. Delete \n3. Display \n4. Exit\n";
@@ -65,8 +64,7 @@ void Display(){
 		}
 	}
 	cout<<endl;
-}
-		
+}		
 		
 int main(){
 	int choice;
