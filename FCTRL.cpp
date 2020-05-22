@@ -8,7 +8,8 @@ int findTrailingZeros(ll n)
     for (ll i = 5; n / i >= 1; i *= 5) 
         count += n / i; 
     return count; 
-} 
+}   
+
   
 int main() 
 { 
